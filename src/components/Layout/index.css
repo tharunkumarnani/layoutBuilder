@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.layout-cont {
+  width: 90%;
+  margin-top: 20px;
+}
+@media (min-width: 768px) {
+  .layout-cont {
+    width: 80%;
+  }
+}

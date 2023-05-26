@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.confi-cont {
+  background-color: #475569;
+  padding-bottom: 10px;
+  width: 100%;
+  padding-left: 5%;
+  color: #f1f5f9;
+  font-family: Roboto;
+}
+.check-box {
+  height: 15px;
+  width: 15px;
+}
+.label-style {
+  width: 100%;
+  margin-left: 5px;
+}

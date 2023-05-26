@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.header-nav {
+  width: 100%;
+  background-color: #cbd5e1;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  margin-bottom: 7px;
+}
